@@ -1,0 +1,213 @@
+.main {
+    background: url(./../Images/two.png)no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    background-position: 50% 50%;
+  }
+
+  .main h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    margin-top: 500px;
+    margin-right: 500px;
+
+  }
+
+  .btn1 {
+    color: rgb(244, 238, 238);
+    background-color: rgb(25, 31, 31);
+    font-weight: bold;
+    box-shadow: 1px 1px;
+    margin-top: 80px;
+    text-decoration: none;
+    width: 25%;
+  }
+
+  
+
+  .img-fluid {
+    height: 70vh;
+    width: 50%;
+    margin-left: 700px;
+
+  }
+
+  .about h1 {
+    color: rgb(228, 208, 219);
+    margin-bottom: 50px;
+
+  }
+
+  .about1 h1 {
+    color: aqua;
+    margin-bottom: 50px;
+
+
+  }
+
+  .youtube-video {
+    height: 400px;
+    width: 700px;
+    margin-bottom: 90px;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: 50px;
+  }
+
+
+  .btn {
+    padding: 8px 2px;
+    margin: 7px 3px;
+    border: 2px solid rgb(218, 211, 211);
+    border-radius: 8px;
+    background: none;
+    color: white;
+    cursor: pointer;
+  }
+
+  .btn-sm {
+    padding: 6px 10px;
+    vertical-align: middle;
+  }
+
+  .sectiontag {
+    color: rgb(87, 84, 165);
+  }
+
+  .secright {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 90%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+  .secleft {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 90%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+    flex-direction: row-reverse;
+  }
+
+  .thumbnail img {
+    height: 450px;
+    width: 500px;
+
+  }
+
+  .paras {
+    padding: 0px 60px;
+  }
+
+  .subsectiontag {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .container {
+    margin-top: 50px;
+  }
+
+  .container h1 {
+    margin-top: 50px;
+  }
+
+  .sign {
+    background: url(./../Images/one.png)no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    background-position: 50% 50%;
+  }
+
+  .sign h1 {
+    font-family: 'lobster', cursive;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    margin-top: 0px;
+
+
+  }
+
+  .content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 100px;
+
+  }
+
+  /*footer*/
+
+  .footer {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .quick {
+    text-decoration: none;
+    color: black;
+  }
+
+  .subs {
+    width: 290px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid black;
+  }
+
+  .social-handles {
+    display: flex;
+    justify-content: center;
+  }
+
+  .socials {
+    width: 38px;
+    margin: 10px;
+    cursor: pointer;
+  }
+
+  .margin {
+    margin-left: 10px;
+  }
+
+  .subs {
+    width: 290px;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+    border: none;
+  }
+
+  .sub {
+    width: 290px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid black;
+  }
+
+  .btn-card {
+    width: 100%;
+  }
+
+  .head-text {
+    font-weight: bolder;
+    font-size: 50px;
+    text-shadow: 0 2px 3px black;
+  }
+
+  .head-text-p {
+    font-weight: bolder;
+    font-size: 25px;
+  }
